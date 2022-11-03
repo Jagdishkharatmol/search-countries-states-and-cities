@@ -9,11 +9,14 @@ Javascript
 html
 css
 bootstrap
+Github
 
 
-output
+Output
 --------------------------------------------------
-![Alt text]
+![Screenshot](output1.PNG)
+
+![Screenshot](output2.PNG)
 
 
 
