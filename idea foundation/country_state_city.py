@@ -8,8 +8,8 @@ app = Flask(__name__)
 app.secret_key = 'ideafoundation'
  
 mysql = MySQL()
-app.config['MYSQL_DATABASE_USER'] = 'root'
-app.config['MYSQL_DATABASE_PASSWORD'] = 'root'
+app.config['MYSQL_DATABASE_USER'] = 'username'
+app.config['MYSQL_DATABASE_PASSWORD'] = 'passwoord'
 app.config['MYSQL_DATABASE_DB'] = 'idea'
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 mysql.init_app(app)
