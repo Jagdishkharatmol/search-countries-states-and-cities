@@ -19,7 +19,7 @@ class InsertDataInDatabase:
 
   def insert_data(self):
     try: 
-        engine = create_engine('mysql+pymysql://root:root@localhost/idea')
+        engine = create_engine('mysql+pymysql://username:password@localhost/idea')
     except Exception as e:
           engine.dispose()
           print("Error",e)
