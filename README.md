@@ -14,9 +14,9 @@ Github
 
 Output
 --------------------------------------------------
-<img src="search-countries-states-and-cities/idea foundation/output1.PNG" width="128"/>
+![image](https://user-images.githubusercontent.com/44578562/199634251-ae0c9497-b7ba-4f96-933c-6d07ef55591c.png)
 
-![Screenshot](output2.PNG)
+
 
 
 
