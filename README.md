@@ -14,7 +14,7 @@ Github
 
 Output
 --------------------------------------------------
-<img src="search-countries-states-and-cities/output1.png" width="128"/>
+<img src="search-countries-states-and-cities/idea foundation/output1.PNG" width="128"/>
 
 ![Screenshot](output2.PNG)
 
