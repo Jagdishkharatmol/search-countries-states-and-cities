@@ -14,7 +14,7 @@ Github
 
 Output
 --------------------------------------------------
-![Screenshot](output1.PNG)
+<img src="search-countries-states-and-cities/output1.png" width="128"/>
 
 ![Screenshot](output2.PNG)
 
